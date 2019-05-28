@@ -14,8 +14,6 @@ autolink: true
 
 上海数字化教育装备工程技术研究中心
 
-手机:18616568001
-
 网站:www.muedu.org
 
 Email:[xfeng@eec.ecnu.edu.cn](mailto:xfeng@eec.ecnu.edu.cn)
