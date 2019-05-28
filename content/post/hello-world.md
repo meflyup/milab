@@ -1,19 +1,19 @@
 ---
-title: 大家好
-date: 2018-05-09T01:05:00+02:00
-lastmod: 2018-05-09T01:05:00+02:00
+title: 13000元打造深度学习电脑
+date: 2018-05-08T23:05:00.000+00:00
+lastmod: 2018-05-08T23:05:00.000+00:00
 tags:
-- academic
-- android
+- deep learning
 summary: A new post
 header:
   caption: Unas burbujitas
   image: "/img/bubbles-wide.jpg"
+draft: true
 
 ---
-# Heading
+13000元打造深度学习电脑
 
-This is content
+深度学习机器太贵了，且性价比太低。因此，我决定自己DIY一台！
 
 > This is a quote
 
