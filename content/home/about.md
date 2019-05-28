@@ -19,7 +19,6 @@ education:
   - course: eeeed
     institution: eeee
     year: "2022"
-draft: true
 
 ---
 您好，我是华东师范大学人工智能教育应用实验室
